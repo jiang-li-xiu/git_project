@@ -8,7 +8,7 @@ public class LuQingge {
 	
 	LuQingge(){
 		this.name="陆庆阁";
-		this.id=0651;
+		this.id=065;
 		this.clas="17物联网工程1班";
 	}
 
