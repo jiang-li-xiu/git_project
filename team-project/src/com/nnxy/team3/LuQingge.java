@@ -15,6 +15,6 @@ public class LuQingge {
 	public void name() {
 		System.out.println("我的名字是"+name);
 		System.out.println("我的学号是"+id);
-		System.out.println("我的班级是"+clas);
+	
 	}
 }
