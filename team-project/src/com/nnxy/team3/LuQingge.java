@@ -11,8 +11,7 @@ public class LuQingge {
 		this.id=065;
 		this.clas="17物联网工程1班";
 	}
-	
-	
+
 	public void name() {
 		System.out.println("我的名字是"+name);
 		System.out.println("我的学号是"+id);
