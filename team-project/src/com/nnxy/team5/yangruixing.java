@@ -5,6 +5,7 @@ public class yangruixing {
 	      private String username;
 	      private String password;
 	      private int sex;
+	      
 		public int getId() {
 			return id;
 		}
